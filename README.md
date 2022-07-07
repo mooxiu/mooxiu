@@ -6,6 +6,8 @@ I am a musician and backend developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooxiu&hide=html&count_private=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mooxiu)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **mooxiu/mooxiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
